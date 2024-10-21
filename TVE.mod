@@ -8,6 +8,5 @@ tags={
 	"Historical"
 	"Religion"
 }
-name="Regional Immersion and Cultural Enrichment (RICE)"
+name="The Vegas Experiment"
 supported_version="1.13.*"
-remote_file_id="2273832430"
